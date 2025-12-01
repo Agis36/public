@@ -2,7 +2,7 @@
 
 # Privacy Policy for MathQuest AI
 
-**Last Updated:** November 22, 2025
+**Last Updated:** December 01, 2025
 
 ## 1. Introduction
 **MathQuest AI** ("we," "our," or "us") is committed to protecting the privacy of children and parents. This Privacy Policy explains how we handle data in our mobile application designed for children ages 4-13.
@@ -71,4 +71,5 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 **Developer Contact:**
 agis.mobile.app@gmail.com
+
 
