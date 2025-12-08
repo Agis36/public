@@ -68,7 +68,8 @@ MathQuest AI utilizes third-party AI services (Google Gemini API) to generate co
 ## 7. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-##**Developer Contact:**
+## **Developer Contact:**
 MathQuest AI Team
 agis.mobile.app@gmail.com
+
 
