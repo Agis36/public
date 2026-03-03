@@ -21,7 +21,7 @@ We do not knowingly collect, store, or share any personally identifiable informa
 
 ### B. Local Data Storage
 The following data is stored locally on your device using `localStorage`:
-*   Child profile names (nicknames) and avatars.
+*   User profile names (nicknames) and avatars.
 *   Game settings (sound, language, voice speed).
 *   Game progress (scores, stars, streaks).
 *   Parental PIN code.
@@ -29,7 +29,7 @@ The following data is stored locally on your device using `localStorage`:
 If you delete the app or clear the app data, this information is permanently lost because we do not sync it to a cloud server.
 
 ### C. Microphone Usage & Voice Data
-MathQuest AI allows children to answer questions using their voice.
+MathQuest AI allows users to answer questions using their voice.
 *   **Usage:** The microphone is accessed only when the "Microphone" button is active during gameplay.
 *   **Processing:** Voice data is processed in real-time by your device's operating system (Android Speech Services or Apple Speech Recognition).
 *   **Storage:** We do **not** record, save, or upload audio recordings to our servers.
@@ -41,13 +41,13 @@ MathQuest AI uses Google's Gemini AI to generate unique math questions.
 
 ---
 
-## 3. Children’s Privacy (COPPA & GDPR)
+## 3. User and Children’s Privacy (COPPA & GDPR)
 Our app is designed to comply with the **Children’s Online Privacy Protection Act (COPPA)** and the **General Data Protection Regulation (GDPR)**.
 
-*   We do not collect personal data from children under 13.
+*   We do not collect personal data from users.
 *   We do not use behavioral advertising.
-*   We do not allow children to share personal information publicly.
-*   The "Settings" menu is protected by a Parental PIN gate to prevent children from modifying app configurations or deleting data accidentally.
+*   We do not allow users to share personal information publicly.
+*   The "Settings" menu is protected by a Parental PIN gate to prevent children/users from modifying app configurations or deleting data accidentally.
 
 ---
 
