@@ -11,7 +11,7 @@ If you cannot find the answer to your question below, our team is always ready t
 
 * **Email Support:** [agis.mobile.app@gmail.com](mailto:agis.mobile.app@gmail.com) (We typically reply within 24 hours)
 * **Response hours:** Monday – Friday, 9:00 AM – 6:00 PM EST
-* **Privacy Policy:** [Privacy Policy Page](https://github.com/yasarayirkan/mathquest-ai/blob/main/PRIVACY_POLICY.md) *(Replace with your live GitHub Privacy link)*
+* **Privacy Policy:** [Privacy Policy Page](https://raw.githubusercontent.com/Agis36/public/refs/heads/main/MathQuest/PRIVACY_POLICY.md) *(Replace with your live GitHub Privacy link)*
 
 ---
 
