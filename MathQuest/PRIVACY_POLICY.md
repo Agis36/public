@@ -63,6 +63,7 @@ We use RevenueCat and the relevant app store to process and manage purchases, va
 RevenueCat processes purchase and subscription information, transaction identifiers and an automatically generated anonymous app-user identifier. We also provide the Firebase app-instance identifier to support purchase analytics.
 
 Payment-card details are handled by the app store and are not available to us through RevenueCat.
+
 ---
 
 ## 3. User and Children’s Privacy (COPPA & GDPR)
@@ -86,6 +87,7 @@ MathQuest AI uses third-party services for analytics, purchases, AI features and
 *   Apple: https://www.apple.com/legal/privacy/
 
 Deleting the app removes locally stored data but does not automatically delete information already processed by service providers. For questions about access, deletion or retention, contact agis.mobile.app@gmail.com. We will assess requests and explain any limitations, including records that must be retained for transaction or legal purposes.
+
 ---
 
 ## 5. Changes to This Privacy Policy
